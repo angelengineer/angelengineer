@@ -1,16 +1,14 @@
-### Engineer Student 
+# Hi, I'm Ángel 👋
 
-<!--
-**angelengineer/angelengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Robotics Engineer from Spain**, specializing in **robot control, autonomous systems, and robot learning**. I recently completed an **M.Sc. in Advanced Robotics (JEMARO)** at **Warsaw University of Technology and Keio University**, where I conducted research at the **Murakami Laboratory in Tokyo**.
 
-Here are some ideas to get you started:
+My work combines classical robotics with modern AI, from **nonlinear model predictive control (NMPC)** and real-time optimization to **Vision-Language-Action models** and sim-to-real learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🤖 Developing control and learning systems for real robots
+* 🧠 Exploring **VLA models, imitation learning, and embodied AI**
+* ⚙️ Experienced with **ROS 2, Python, C++, PyTorch, MuJoCo, LeRobot, acados, CasADi, and ONNX**
+* 🎓 Master's thesis: *Control of an Underactuated Self-Balancing Robotic Platform with Variable Payloads and Dynamic Uncertainties for Human–Robot Interaction*
+* 🌱 Interested in **field robotics, agricultural robotics, autonomous systems, and intelligent control**
+* 🌍 Based in **Japan** until Septemeber.
+
+I enjoy taking robotics projects through the complete pipeline: **mathematical modeling, simulation, control, mechanical integration, data collection, training, and deployment on real hardware**.
