@@ -7,8 +7,7 @@ My work combines classical robotics with modern AI, from **nonlinear model predi
 * 🤖 Developing control and learning systems for real robots
 * 🧠 Exploring **VLA models, imitation learning, and embodied AI**
 * ⚙️ Experienced with **ROS 2, Python, C++, PyTorch, MuJoCo, LeRobot, acados, CasADi, and ONNX**
-* 🎓 Master's thesis: *Control of an Underactuated Self-Balancing Robotic Platform with Variable Payloads and Dynamic Uncertainties for Human–Robot Interaction*
 * 🌱 Interested in **field robotics, agricultural robotics, autonomous systems, and intelligent control**
-* 🌍 Based in **Japan** until Septemeber.
+* 🌍 Based in **Spain**.
 
 I enjoy taking robotics projects through the complete pipeline: **mathematical modeling, simulation, control, mechanical integration, data collection, training, and deployment on real hardware**.
